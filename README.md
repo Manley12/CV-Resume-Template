@@ -9,18 +9,16 @@ I am also willing to make a whole new template for somebody if they ask, for a s
 
 Finally, I will fill in a CV/Resume for you if you provide me with the neccessary details, again, for a fee (depending on the length of the information). (Include subject: fill)
 
-E-mail me about anything at gregory.f.manley@gmail.com
+E-mail me about anything at gregory.f.manley@icloud.com
 
 # Donations and Payments
 Donations can be sent to: <br />
-  BTC: 1DDNK2wmh46yXQsEYRgaEsetTyoBs62ts7 <br />
-  ZEC: t1RMsVfNgsXB4bU4KnfQ7Bqdc4M51KGXjCZ <br />
-  BCN: 21UL8Uegu74EtKs8VNz7sUgJE6APHrRw78H9e8bMwkqhaZbJoj5F3wUdi7ok6B5SQT6UXUtQgusruCoXbqUZm8VJAbbgDKw <br />
-  XMR: Adding <br />
-  DASH: XepEbsBJb7S4SSCFfUZ9iaMbkAVPjoUYkk <br />
-  AEON: Wmt5G4LaDgWVczSG5foWf772UyMah2aHRAgLsc1ZGq3UB7s7dqMkahfhFaaEttMUt9c61Em6dP1WeHkyDtyRgWf11Q6Ptvjpg <br />
-  DOGE: D8hcpmeT6jx1ZTh2v4EsqCYxst51ZeMZTo <br />
+  BTC: 358BgERuj3iJejwXd9TS4ogXF72xgN2CxS <br />
+  XMR: 84CBu7RzXndDM7mhmR4qRm7SQhbZrPCXBBjSL6CqyMg5332F1aESXLu6AJ57p3ETc62cibomMCKjELZpsn6vpZkqB4c5Lmr <br />
+  DASH: XvoRvXkWrpBbrymqhygZHEHMowjeKs4tV6 <br />
+  AEON: WzWP347dSczJVmPpw65AsAGi5WhT85z5n66D8vcT3RcxRBBj4tFiDcd2CVFcQ1bBpjNQD5Z5kbXrLjVidvoKFaFK6uipE8Xsy4y2jSN7SHnD <br />
+  DOGE: DAkhU8shrmy8CKkdWEswAA7k3aaAeBUkrd <br />
   
 All Donations will go towards the future development of this template and other templates for people.
   
-Payment options include BTC, ZEC, BCN, XMR, DASH, AEON, DOGE, and PayPal. After contact is established, payment is due before any work is started. If payment is not received, no work will be done. If you choose not to continue after paying, a partual refund may be offered, if within 15 days of original payment.
+Payment options include BTC, BCN, XMR, DASH, AEON, DOGE, and Google Pay. After contact is established, payment is due before any work is started. If payment is not received, no work will be done. If you choose not to continue after paying, a partual refund may be offered, if within 15 days of original payment.
